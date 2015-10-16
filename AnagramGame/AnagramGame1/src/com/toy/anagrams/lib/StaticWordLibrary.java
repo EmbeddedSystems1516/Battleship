@@ -37,7 +37,7 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
-        "mario",
+        "marioooo",
         "embedded",
         "master",
         "abstraction",
